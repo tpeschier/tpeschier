@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+## This is a subtitle
+### ...
+
+*Hello there, this is italic**
+**This is my profile page**
+
+* This is a list
+  * This is a nested list
+
 
 <!--
 **tpeschier/tpeschier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
